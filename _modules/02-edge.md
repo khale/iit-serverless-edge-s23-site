@@ -11,7 +11,7 @@ Day 3 (1/24)
  : [Edge Cloud Isolation - ATC '20](https://www.usenix.org/conference/atc20/presentation/ren)
 
 Day 4 (1/26)
- : [Firefly Edge VR - ATC '20](https://www.usenix.org/system/files/atc20-liu-xing.pdf)
+ : [Firefly Edge VR - ATC '20](https://www.usenix.org/system/files/atc20-liu-xing.pdf) - Cole
 
 Day 5 (1/31)
  : [Bladerunner - SOSP '21](https://dl.acm.org/doi/pdf/10.1145/3477132.3483572)
