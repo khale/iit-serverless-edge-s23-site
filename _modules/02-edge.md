@@ -17,7 +17,7 @@ Day 5 (1/31)
  : [Bladerunner - SOSP '21](https://dl.acm.org/doi/pdf/10.1145/3477132.3483572)
 
 Day 6 (2/2)
- : [DART - ATC '21](https://www.usenix.org/system/files/atc21-liu.pdf)
+ : [DART - ATC '21](https://www.usenix.org/system/files/atc21-liu.pdf) - Mahad
 
 Day 7 (2/7)
  : [OneOS - SEC '21](https://ieeexplore.ieee.org/document/9708969)
