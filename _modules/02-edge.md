@@ -5,7 +5,7 @@ Day 1 (1/17)
  : [Latency Study of Edge Applications - SEC '17](https://dl.acm.org/doi/10.1145/3132211.3134458) - Harrison
 
 Day 2 (1/19)
- : [MAUI - MobiSys '10](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/06/maui.pdf)
+ : [MAUI - MobiSys '10](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/06/maui.pdf) - Yun
 
 Day 3 (1/24)
  : [Edge Cloud Isolation - ATC '20](https://www.usenix.org/conference/atc20/presentation/ren)
