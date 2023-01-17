@@ -4,7 +4,7 @@ title: Serverless Computing
 
 Day 1 (2/14)
  : [Peeking Behind the Curtains - ATC '18](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf)
- : [**Prerequisite - Berkeley Paper**](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf){.label .label-purple}
+ : [**Prerequisite - Berkeley Paper**](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf){: .label .label-purple}
 
 Day 2 (1/16)
  : [Encoding, Fast and Slow - NSDI '17](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf)
@@ -28,10 +28,10 @@ Day 8 (3/9)
  : [Nightcore - ASPLOS '21](https://www.cs.utexas.edu/users/witchel/pubs/jia21asplos-nightcore.pdf)
 
 Spring Break (3/14)
- : **No Class** {: .label .label-orange}
+ : [**No Class**]{: .label .label-orange}
 
 Spring Break (3/16)
- : **No Class** {: .label .label-orange}
+ : [**No Class**]{: .label .label-orange}
 
 Day 9 (3/21)
  : [Boki - SOSP '21](https://dl.acm.org/doi/10.1145/3477132.3483541)
