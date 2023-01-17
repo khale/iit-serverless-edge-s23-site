@@ -18,11 +18,18 @@ This is not an exhaustive list. Consider looking for more at recent proceedings 
 - [Networked Cameras - HotEdgeVideo '19](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/hotedgevideo19camera.pdf) 
 - [Energy-Aware Streaming - ATC '21](https://www.usenix.org/conference/atc21/presentation/meng)
 - [Orbital Edge Computing - ASPLOS '20](https://dl.acm.org/doi/10.1145/3373376.3378473)
+- [Edge-SLAM - MobiSys '20](https://par.nsf.gov/servlets/purl/10167133)
 - [Video Analytics at the Edge - ATC '21](https://www.usenix.org/conference/atc21/presentation/xu)
 - [Coalescent Computing - APSys '21](https://arxiv.org/abs/2104.07122)
+- [nnMeter - MobiSys '21](https://dl.acm.org/doi/10.1145/3458864.3467882)
+- [Stateful Serverless @ Edge - MobileServerless '21](https://dl.acm.org/doi/pdf/10.1145/3469263.3470828)
+- [Robotic Testbed - MobileServerless '21](https://arxiv.org/abs/2101.07676)
 - [SOTER (Edge Security) - ATC '22](https://www.usenix.org/conference/atc22/presentation/shen)
 - [CoolEdge - ASPLOS '22](https://dl.acm.org/doi/10.1145/3503222.3507713)
 - [Point Cloud Compression - MICRO '22](https://ieeexplore.ieee.org/document/9923794)
+- [AutoCast - MobiSys '22](https://dl.acm.org/doi/10.1145/3498361.3538925)
+- [IoT+WASM - MobiSys '22](https://dl.acm.org/doi/10.1145/3498361.3538922)
+
 
 ## Serverless
 - [OpenLambda - HotCloud '16](https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/hendrickson)
