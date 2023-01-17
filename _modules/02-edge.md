@@ -7,6 +7,9 @@ Day 1 (1/17)
 Day 2 (1/19)
  : [MAUI - MobiSys '10](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/06/maui.pdf) - Yun
 
+Due Date
+ : **Project Proposals Due**{: .label .label-red}
+
 Day 3 (1/24)
  : [Edge Cloud Isolation - ATC '20](https://www.usenix.org/conference/atc20/presentation/ren)
 
