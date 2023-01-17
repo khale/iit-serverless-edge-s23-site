@@ -1,5 +1,19 @@
 # Extra Reading
 
+This is not an exhaustive list. Consider looking for more at recent proceedings of the following conferences:
+- ACM Symposium on Edge Computing (SEC)
+- The USENIX Symposium on Operating Systems Design and Implementation (OSDI)
+- The Symposium on Operating System Principles (SOSP)
+- International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+- The USENIX Annual Technical Conference (ATC)
+- The European Conference on Computer Systems (EuroSys)
+- The USENIX Symposium on Networked Systems Design and Implementation (NSDI)
+- The ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)
+- The International Symposium on Computer Architecture (ISCA)
+- The IEEE/ACM International Symposium on Microarchitecture (MICRO)
+- The ACM Symposium on Cloud Computing (SoCC)
+
+
 ## Edge
 - [Networked Cameras - HotEdgeVideo '19](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/hotedgevideo19camera.pdf) 
 - [Energy-Aware Streaming - ATC '21](https://www.usenix.org/conference/atc21/presentation/meng)
