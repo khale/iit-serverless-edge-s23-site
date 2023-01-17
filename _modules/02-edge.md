@@ -7,7 +7,7 @@ Day 1 (1/17)
 Day 2 (1/19)
  : [MAUI - MobiSys '10](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/06/maui.pdf) - Yun
 
-Due Date
+Due Date (1/20):
  : **Project Proposals Due**{: .label .label-red}
 
 Day 3 (1/24)
