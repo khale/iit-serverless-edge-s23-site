@@ -28,10 +28,10 @@ Day 8 (3/9)
  : [Nightcore - ASPLOS '21](https://www.cs.utexas.edu/users/witchel/pubs/jia21asplos-nightcore.pdf)
 
 Spring Break (3/14)
- : [**No Class**]{: .label .label-orange}
+ : **Holiday - No Class**{: .label .label-yellow}
 
 Spring Break (3/16)
- : [**No Class**]{: .label .label-orange}
+ : **Holiday - No Class**{: .label .label-yellow}
 
 Day 9 (3/21)
  : [Boki - SOSP '21](https://dl.acm.org/doi/10.1145/3477132.3483541)
