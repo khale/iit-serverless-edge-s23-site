@@ -11,7 +11,7 @@ Due Date (1/20)
  : **Project Proposals Due**{: .label .label-red}
 
 Day 3 (1/24)
- : [Edge Cloud Isolation - ATC '20](https://www.usenix.org/conference/atc20/presentation/ren)
+ : [Edge Cloud Isolation - ATC '20](https://www.usenix.org/conference/atc20/presentation/ren) - Feijin
 
 Day 4 (1/26)
  : [Firefly Edge VR - ATC '20](https://www.usenix.org/system/files/atc20-liu-xing.pdf) - Cole
