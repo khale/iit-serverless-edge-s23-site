@@ -17,7 +17,7 @@ Day 4 (1/26)
  : [Firefly Edge VR - ATC '20](https://www.usenix.org/system/files/atc20-liu-xing.pdf) - Cole
 
 Day 5 (1/31)
- : [Bladerunner - SOSP '21](https://dl.acm.org/doi/pdf/10.1145/3477132.3483572)
+ : [Bladerunner - SOSP '21](https://dl.acm.org/doi/pdf/10.1145/3477132.3483572) - Khiem 
 
 Day 6 (2/2)
  : [DART - ATC '21](https://www.usenix.org/system/files/atc21-liu.pdf) - Mahad
