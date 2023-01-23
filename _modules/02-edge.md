@@ -26,5 +26,5 @@ Day 7 (2/7)
  : [OneOS - SEC '21](https://ieeexplore.ieee.org/document/9708969) - Tommy
 
 Day 8 (2/9)
- : [DEAN - IPDPS '22](https://ieeexplore.ieee.org/document/9820728)
+ : [DEAN - IPDPS '22](https://ieeexplore.ieee.org/document/9820728) - Bhooshita
 
