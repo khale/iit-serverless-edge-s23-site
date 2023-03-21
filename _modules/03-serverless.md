@@ -36,6 +36,9 @@ Spring Break (3/16)
 Day 9 (3/21)
  : [Boki - SOSP '21](https://dl.acm.org/doi/10.1145/3477132.3483541) - Feijin
 
+Day 9.5 (3/23)
+ : **Project Hacking**{: .label .label-green}
+
 Day 10 (3/28)
  : [Resource Harvesting - SOSP '21](https://dl.acm.org/doi/10.1145/3477132.3483580) - Cole
 
